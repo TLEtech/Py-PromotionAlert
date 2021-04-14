@@ -16,7 +16,7 @@ log_handler.push_application()
 f_name = 'promotions.json'
 f_path = os.getcwd() + os.sep + f_name
 
-url_base = 'http://www.yg1usa.com/promotions'
+url_base = 'https://website.com'
 url_page = '{url_base}/default.asp'.format(url_base=url_base)
 
 
